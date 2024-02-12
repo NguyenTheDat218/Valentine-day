@@ -36,7 +36,7 @@ a {
 
 #code {
 	display: none;
-	font-size: 16px;
+	font-size: 19px;
 }
 
 #clock-box {
@@ -78,7 +78,6 @@ a {
 }
 
 .say {
-	font-size: 19px;
 	margin-left: 5px;
 }
 
